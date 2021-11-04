@@ -1,0 +1,3 @@
+environs
+discord
+asyncpg
